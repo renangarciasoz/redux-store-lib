@@ -2,7 +2,7 @@
   "name": "store",
   "version": "1.0.0",
   "description": "",
-  "author": "renangarciasoz",
+  "author": "renangarciasoz <renangarciasoz@hotmail.com",
   "license": "MIT",
   "repository": "renangarciasoz/store",
   "main": "dist/index.js",
