@@ -1,5 +1,5 @@
 {
-  "name": "store",
+  "name": "redux-store-lib",
   "version": "1.0.0",
   "description": "<h1 align=\"center\">   Redux Store Lib </h1>",
   "author": "renangarciasoz",
