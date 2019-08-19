@@ -5,4 +5,4 @@ const Reducers = combineReducers({
   search
 });
 
-export default Reducers;
+export { Reducers };
